@@ -1,0 +1,11 @@
+{
+  "name": "so-installer-bundle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mucahit INEL <mucahit.inel@hotmail.com>",
+  "license": "MIT"
+}
